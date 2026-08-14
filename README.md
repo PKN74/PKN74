@@ -9,7 +9,7 @@
 🐍 **[Python To-Do App](https://github.com/PKN74/python-todo-app)**  
 A simple Python to-do application built to practice functions, file handling, and basic application structure.
 
-🍴 **Forkify**  
+🍴 **[Forkify](https://github.com/PKN74/Forki)**  
 A recipe application built with JavaScript using an external API. It includes recipe search, recipe details, servings adjustment, bookmarks, and other interactive features.
 
 ## 🛠 Tech Stack
