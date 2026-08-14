@@ -28,6 +28,8 @@ A recipe application built with JavaScript using an external API. It includes re
 ## 📫 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/pyone-khant-naung/)
+
+
 [Portfolio](https://portfolio-master-bice-sigma.vercel.app)
 
 ⭐️ **Fun fact:** I prefer building small, complete projects that help me understand how the code actually works instead of just following tutorials.
